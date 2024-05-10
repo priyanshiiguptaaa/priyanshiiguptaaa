@@ -7,7 +7,9 @@ Hi there👋
 <h2 class="heading-element" dir="auto">About Me</h2>
 
 🔭 I am currently pursuing B.Tech. in Computer Science from Bharati Vidyapeeth's College of Engineering, Paschim Vihar, Delhi, India.
+
 👩‍💻 I find my technical interests in Problem Solving, Frontend development, Artificial Intelligence and open source!
+
 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons.
 I am also an avid book lover in my free time.
 
@@ -23,15 +25,24 @@ I am also an avid book lover in my free time.
 <img alt="C" src="https://camo.githubusercontent.com/e48b3d44aa7b98bab1c82c7589ba1b5790cb9ddfbb78625350163972fab61f45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
 <img alt="MySQL" src="https://camo.githubusercontent.com/b26699b50f121ded46e4f9f975eb7f48a9eb43e81582986c4b98766592576c01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
 </a>
-![image](https://github.com/priyanshiiguptaaa/priyanshiiguptaaa/assets/152763463/b2f75dc1-9386-4c28-9a35-c40b25e4a26e)
 
-**Connect with me for :**
-Pair programming
-Asking about any Data structures or algorithm (I will try my best to help)
-Help with getting started with open source.
-Collaborating on projects
-Talking about anything related to Artificial Intelligence!
+<h2 class="heading-element" dir="auto">Connect with me for :</h2>
+<ul dir="auto">
+<li>Pair programming</li>
+<li>Asking about any Data structures or algorithm (I will try my best to help)</li>
+<li>Help with getting started with open source.</li>
+<li>Collaborating on projects</li>
+<li>Talking about anything related to Artificial Intelligence!</li>
+</ul>
 
+<div class="markdown-heading" dir="auto"><h1 align="left" class="heading-element" dir="auto">GitHub Statistics</h1><a id="user-content-github-statistics" class="anchor" aria-label="Permalink: GitHub Statistics" href="#github-statistics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec612f2bea0e910634135fcebd91f6c000f609bb8936e485dda8a73cb32581d1/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170693f757365726e616d653d4161736869476f656c2673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/ec612f2bea0e910634135fcebd91f6c000f609bb8936e485dda8a73cb32581d1/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170693f757365726e616d653d4161736869476f656c2673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d7261646963616c" alt="Priyanshi Gupta Github Stats" data-canonical-src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AashiGoel&amp;show_icons=true&amp;include_all_commits=true&amp;theme=radical" style="max-width: 100%;"></a></p>
+
+<div class="markdown-heading" dir="auto"><h1 align="left" class="heading-element" dir="auto">Top Languages</h1><a id="user-content-top-languages" class="anchor" aria-label="Permalink: Top Languages" href="#top-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<a href="https://github.com/priyanshiiguptaa">
+  <img align="center" src="https://camo.githubusercontent.com/c31750740b840f52f39e1ef8acf7a630f0ec15dabe6a6fd17efd065b4f413525/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4161736869476f656c266c61796f75743d636f6d70616374267468656d653d636f62616c74267469746c655f636f6c6f723d666666666666" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiiguptaal&amp;layout=compact&amp;theme=cobalt&amp;title_color=ffffff" style="max-width: 100%;">
+</a>
 <!---
 priyanshiiguptaaa/priyanshiiguptaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
