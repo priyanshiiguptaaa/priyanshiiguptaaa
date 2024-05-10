@@ -1,6 +1,6 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465](https://github.com/priyanshiiguptaaa/priyanshiiguptaaa/assets/152763463/a374d20c-87a2-495f-9520-acd72f0754fd)Hi there👋 
+Hi there👋 
 📫**You can find me here**: 
-    https://www.linkedin.com/in/priyanshiguptaa/          
+![link](https://github.com/priyanshiiguptaaa/priyanshiiguptaaa/assets/152763463/2c5f90b4-a72e-4686-88b8-da5533a4a739)https://www.linkedin.com/in/priyanshiguptaa/          
     priyanshigupta6718@gmail.com
 
 **About Me**
