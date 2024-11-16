@@ -29,10 +29,10 @@
 
 <!-- GitHub Stats Section -->
 ## GitHub Statistics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshiiguptaa&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-n11uvi4qo.vercel.app/api?username=priyanshiiguptaa&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiiguptaa&layout=compact&theme=cobalt&title_color=ffffff)
+![Top Langs](https://github-readme-stats-n11uvi4qo.vercel.app/api/top-langs/?username=priyanshiiguptaa&layout=compact&theme=cobalt&title_color=ffffff)
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshiiguptaa&theme=radical)
