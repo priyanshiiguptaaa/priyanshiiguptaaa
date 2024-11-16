@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/priyanshiguptaa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:priyanshigupta6718@gmail.com">
+  <a href="mailto:priyanshiigupta6718@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -29,10 +29,10 @@
 
 <!-- GitHub Stats Section -->
 ## GitHub Statistics
-![Your GitHub stats](https://github-readme-stats-brzfyrnq9.vercel.app/api?username=priyanshiiguptaa&show_icons=true&theme=radical)
+![Your GitHub stats](https://pri-github-readme-stats-ag7fobjts.vercel.app/api?username=priyanshiiguptaa&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats-brzfyrnq9.vercel.app/api/top-langs/?username=priyanshiiguptaa&layout=compact&theme=cobalt&title_color=ffffff)
+![Top Langs](https://pri-github-readme-stats-ag7fobjts.vercel.app/api/top-langs/?username=priyanshiiguptaa&layout=compact&theme=cobalt&title_color=ffffff)
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshiiguptaa&theme=radical)
