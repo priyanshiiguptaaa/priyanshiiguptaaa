@@ -1,5 +1,3 @@
-1. Copy the following markdown into your README.md:
-
 <h1 align="center">Hi there 👋</h1>
 
 <!-- Add your LinkedIn and Email badges -->
