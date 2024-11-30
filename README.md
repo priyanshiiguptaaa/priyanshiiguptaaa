@@ -1,45 +1,51 @@
-<h1 align="center">Hi there 👋</h1>
+# Hi there! 👋 I'm Priyanshi Gupta
 
-<!-- Add your LinkedIn and Email badges -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+- 🎓 Computer Science Engineering Student
+- 💻 Full Stack Developer with a passion for creating impactful solutions
+- 🌱 Currently exploring AI/ML and Deep Learning
+- 👯 Looking to collaborate on innovative projects
+- ⚡ Fun fact: I love to explore new technologies and build creative solutions!
+
+## 🛠️ Tech Stack
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshiguptaa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:priyanshiigupta6718@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<!-- About Me Section -->
-## About Me
-- 🎓 Currently pursuing B.Tech. in Computer Science from Bharati Vidyapeeth's College of Engineering
-- 🧠 Technical interests in Problem Solving, Frontend development, and Artificial Intelligence
-- 👥 Love collaborating over code and working in teams
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshiiguptaaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshiiguptaaa&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-<!-- Tech Stack Section -->
-## Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshiiguptaaa&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-<!-- GitHub Stats Section -->
-## GitHub Statistics
-![Your GitHub stats](https://pri-github-readme-stats-ag7fobjts.vercel.app/api?username=priyanshiiguptaa&show_icons=true&theme=radical)
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshiiguptaaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:priyanshiigupta01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## Top Languages
-![Top Langs](https://pri-github-readme-stats-ag7fobjts.vercel.app/api/top-langs/?username=priyanshiiguptaa&layout=compact&theme=cobalt&title_color=ffffff)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshiiguptaaa&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+</div>
 
-## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshiiguptaa&theme=radical)
-
-<!-- Let's Connect Section -->
-## Let's Connect For
-- 💻 Pair programming
-- 🤝 Data structures and algorithm help
-- 🌟 Getting started with open source
-- 🧠 Artificial Intelligence discussions
+---
+<div align="center">
+  💖 Thanks for visiting my profile! Let's connect and build something amazing together! 
+</div>
