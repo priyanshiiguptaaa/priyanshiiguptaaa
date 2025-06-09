@@ -45,7 +45,6 @@
   <img src="https://komarev.com/ghpvc/?username=priyanshiiguptaaa&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
----
 <div align="center">
   💖 Thanks for visiting my profile! Let's connect and build something amazing together! 
 </div>
