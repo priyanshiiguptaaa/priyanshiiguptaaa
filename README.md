@@ -104,6 +104,39 @@ const priyanshi = {
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4a03-a0ec-4b2fcbab3fb0.gif" width="100">
 </div>
 
+### 💻 My Primary Tech Stack
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=java" width="60"/><br>
+        <b>Java</b><br>
+        <i>Spring Boot, APIs</i>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=html" width="60"/><br>
+        <b>HTML/CSS</b><br>
+        <i>Frontend Development</i>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=js" width="60"/><br>
+        <b>JavaScript</b><br>
+        <i>React, Node.js</i>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=python" width="60"/><br>
+        <b>Python</b><br>
+        <i>AI/ML, Data Science</i>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>
+        <b>C++</b><br>
+        <i>DSA, Competitive</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" />
@@ -186,7 +219,12 @@ const priyanshi = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshiiguptaaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_color=F85D7F"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiiguptaaa&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_color=F85D7F"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiiguptaaa&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_color=F85D7F&hide=cmake,makefile,dockerfile,shell&custom_title=Most%20Used%20Languages"/>
+</div>
+
+<!-- Alternative Language Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiiguptaaa&layout=donut&theme=radical&border_radius=20&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_color=F85D7F&hide=cmake,makefile,dockerfile,shell,batchfile&langs_count=6" width="350"/>
 </div>
 
 <div align="center">
